@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: white;
+
+    &:hover {
+        color: white;
+    }
+}
+
+button,
+input {
+    outline: none !important;
+    box-shadow: none !important;
+}
